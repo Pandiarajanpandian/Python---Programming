@@ -6,6 +6,6 @@ while (temp>0):
     sum=sum+a**3
     temp=temp//10
 if (sum==x):
-    print(x,"amstrong")
+    print("yes")
 else:
-    print(x,"not amstrong")
+    print("no")
